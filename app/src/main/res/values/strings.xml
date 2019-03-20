@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="action_arama">action_arama</string>
+    <string name="action_ayarlar" >action_ayarlar</string>
+</resources>
